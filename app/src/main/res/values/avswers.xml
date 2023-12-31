@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ans">
+        <item>The world wide web (‘www’ or ‘web’ for short) is a collection of webpages found on this network of computers. Your web browser uses the internet to access the web</item>
+        <item>The “com” in the .com domain name indicates a “commercial” site. This can cover business websites, websites that want to make money online, personal websites, blogs, portfolios, and more. … net domain name extension stands for “network”. It was designed for the internet, networking, and email service providers.</item>
+        <item>The Hypertext Transfer Protocol (HTTP) is the foundation of the World Wide Web, and is used to load web pages using hypertext links. HTTP is an application layer protocol designed to transfer information between networked devices and runs on top of other layers of the network protocol stack.</item>
+        <item>FTP (File Transfer Protocol) is used to communicate and transfer files between computers on a TCP/IP (Transmission Control Protocol/Internet Protocol) network, aka the internet. Users, who have been granted access, can receive and transfer files in the File Transfer Protocol server (also known as FTP host/site).</item>
+        <item>ASP is an old (but still powerful) tool for making dynamic Web pages.ASP is a technology (much like PHP) for executing scripts on a web server.In his tutorial you will learn all you need to know about ASP.</item>
+        <item>URL stands for Uniform Resource Locator. A URL is nothing more than the address of a given unique resource on the Web. In theory, each valid URL points to a unique resource. Such resources can be an HTML page, a CSS document, an image, et</item>
+        <item>ROM, which stands for read only memory, is a memory device or storage medium that stores information permanently. It is also the primary memory unit of a computer along with the random access memory (RAM).</item>
+        <item>Alternately referred to as a processor, central processor, or microprocessor, the CPU (pronounced sea-pea-you) is the central processing unit of the computer.</item>
+        <item>Alternately referred to as a processor, central processor, or microprocessor, the CPU (pronounced sea-pea-you) is the central processing unit of the computer.</item>
+        <item>HTML, or Hypertext Markup Language, is a markup language for the web that defines the structure of web pages.It is one of the most basic building blocks of every website</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ques">
+    <item >What is WWW?</item>
+    <item >What is COM?</item>
+    <item >What is HTTP?</item>
+    <item >What is FTP?</item>
+    <item >What is ASP?</item>
+    <item>What is URL?</item>
+    <item>What is ROM?</item>
+    <item >What is CPU?</item>
+    <item >What is API?</item>
+    <item >What is HTML?</item>
+    </string-array>
+</resources>
